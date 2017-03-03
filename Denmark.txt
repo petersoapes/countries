@@ -1,0 +1,3 @@
+Capitol: Copenhagen
+Populaiton: 5,748,769
+GDP: 264.837
